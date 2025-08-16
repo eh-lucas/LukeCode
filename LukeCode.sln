@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LukeCode", "LukeCode\LukeCode.csproj", "{9CC431F3-5327-4F3C-A404-33C8AEFDB24B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CC431F3-5327-4F3C-A404-33C8AEFDB24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC431F3-5327-4F3C-A404-33C8AEFDB24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC431F3-5327-4F3C-A404-33C8AEFDB24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC431F3-5327-4F3C-A404-33C8AEFDB24B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1512A9C0-DD64-4A4C-9EB4-E2C162CB1CF9}
+	EndGlobalSection
+EndGlobal

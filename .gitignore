@@ -1,0 +1,17 @@
+# Ignorar arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Binários e pastas de build
+bin/
+obj/
+
+# Outras pastas temporárias
+*.log
+*.cache
+*.ide
+
+# Configurações locais
+*.dbmdl
+*.jfm
