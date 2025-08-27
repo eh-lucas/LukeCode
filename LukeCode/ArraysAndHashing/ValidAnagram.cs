@@ -1,7 +1,7 @@
 namespace LukeCode.ArraysAndHashing;
 public static class ValidAnagram 
 {
-    public static bool ValidAnagram(string s, string t)
+    public static bool RunValidAnagram(string s, string t)
     {
 	 if (s.Length != t.Length) return false;
 	 var count = new int[26];

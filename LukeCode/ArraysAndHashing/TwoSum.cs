@@ -1,7 +1,7 @@
 namespace LukeCode.ArraysAndHashing;
 public static class TwoSum
 {
-    public static int[] TwoSum(int[] nums, int target)
+    public static int[] RunTwoSum(int[] nums, int target)
     {
 	    var map = new Dictionary<int, int>();
 	    for (int i = 0; i < nums.Length; i++)

@@ -1,7 +1,7 @@
 namespace LukeCode.ArraysAndHashing;
 public static class GroupAnagrams
 {
-    public static List<List<string>> GroupAnagrams(string[] strs)
+    public static List<List<string>> RunGroupAnagrams(string[] strs)
     {
 	    var map = new Dictionary<string, List<string>>();
 	    foreach (var s in strs){
