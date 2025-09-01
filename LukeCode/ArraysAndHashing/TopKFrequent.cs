@@ -1,7 +1,7 @@
 namespace LukeCode.ArraysAndHashing;
 public static class TopKFrequent 
 {
-    public static int[] TopKFrequent(int[] nums, int k)
+    public static int[] RunTopKFrequent(int[] nums, int k)
     {
 	    var count = new Dictionary<int, int>();
 	    var freq = new List<int>[nums.Length + 1];
